@@ -8,7 +8,9 @@ The goal of this project is to demonstrate core HTML capabilities — page struc
 
 ## Live File
 
-The complete site lives in [`SweetcrumbsBakery.index.html`](./SweetcrumbsBakery.index.html). Open it directly in any browser — no build step, server, or dependencies required.
+The complete site lives in [`index.html`](./index.html). Open it directly in any browser — no build step, server, or dependencies required.
+
+View it live via GitHub Pages: https://margaret-obudho.github.io/-Sweet-crumbs-bakery/
 
 ## Sections
 
